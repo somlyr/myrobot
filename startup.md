@@ -4,6 +4,9 @@
 * [安全编码实践及规范要求，含电力/飞机/铁路等行业标准](https://awesome-safety-critical.readthedocs.io/en/latest/)
 * [AUTOSAR安全编码标准-CPP14](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-10/AUTOSAR_RS_CPP14Guidelines.pdf)
 
+##### 编译相关
+* [交叉编译，支持ARM/X86](https://github.com/ros-tooling/cross_compile)
+
 ##### 架构设计相关
 * [构建ROS系统](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf)
 * [查看当前ROS系统结构-rqt_graph](https://wiki.ros.org/rqt_graph)
