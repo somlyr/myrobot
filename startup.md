@@ -7,6 +7,9 @@
 ##### 编译相关
 * [交叉编译，支持ARM/X86](https://github.com/ros-tooling/cross_compile)
 
+##### 容器化相关
+* [OSRF官方容器，ROS1/2、Gazebo](https://github.com/osrf/docker_images)
+
 ##### 架构设计相关
 * [构建ROS系统](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf)
 * [查看当前ROS系统结构-rqt_graph](https://wiki.ros.org/rqt_graph)
