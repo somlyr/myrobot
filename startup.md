@@ -10,7 +10,7 @@
 * [编辑ROS系统launch树](https://github.com/pschillinger/rqt_launchtree)
 
 ##### 参考设计
-* [Aslan-低速自动驾驶，含雷达/激光](https://github.com/project-aslan/Aslan)
+* [Aslan-低速自动驾驶，含激光雷达](https://github.com/project-aslan/Aslan)
 
 #### 通用工具
 ----
