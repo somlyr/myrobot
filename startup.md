@@ -12,12 +12,14 @@
 * [OSRF官方容器，ROS1/2、Gazebo](https://github.com/osrf/docker_images)
 
 ##### 架构设计相关
+* [fast DDS官方文档](https://fast-dds.docs.eprosima.com/en/latest/fastdds/persistence/persistence.html)
 * [构建ROS系统](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf)
 * [查看当前ROS系统结构-rqt_graph](https://wiki.ros.org/rqt_graph)
 * [编辑ROS系统launch树](https://github.com/pschillinger/rqt_launchtree)
 
 ##### 参考设计
 * [Aslan-低速自动驾驶，含激光雷达](https://github.com/project-aslan/Aslan)
+* [SLAM+语音机器人DIY系列](https://www.cnblogs.com/hiram-zhang/p/10412509.html)
 
 #### 通用工具
 ----
