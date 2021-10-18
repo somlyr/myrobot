@@ -16,6 +16,7 @@
 * [构建ROS系统](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf)
 * [查看当前ROS系统结构-rqt_graph](https://wiki.ros.org/rqt_graph)
 * [编辑ROS系统launch树](https://github.com/pschillinger/rqt_launchtree)
+* [非ROS系统接入ROS，rosbridge](https://github.com/RobotWebTools/rosbridge_suite)
 
 ##### 参考设计
 * [Aslan-低速自动驾驶，含激光雷达](https://github.com/project-aslan/Aslan)
