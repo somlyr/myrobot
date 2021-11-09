@@ -18,6 +18,9 @@
 * [编辑ROS系统launch树](https://github.com/pschillinger/rqt_launchtree)
 * [非ROS系统接入ROS，rosbridge](https://github.com/RobotWebTools/rosbridge_suite)
 
+#### 学习资料
+* [youtube课程](https://github.com/fkromer/awesome-ros2#courses)
+
 ##### 参考设计
 * [Aslan-低速自动驾驶，含激光雷达](https://github.com/project-aslan/Aslan)
 * [SLAM+语音机器人DIY系列](https://www.cnblogs.com/hiram-zhang/p/10412509.html)
